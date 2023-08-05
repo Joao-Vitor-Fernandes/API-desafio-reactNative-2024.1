@@ -28,5 +28,5 @@ Lembre-se de consultar a documentação sempre.
 
 ## Links Úteis
 
-- [Documentação do JSON Server (Fake-API)]([https://nextjs.org/docs](https://github.com/typicode/json-server))
+- [Documentação do JSON Server (Fake-API)](https://github.com/typicode/json-server)
 - [Documentação do Next.js](https://nextjs.org/learn)
