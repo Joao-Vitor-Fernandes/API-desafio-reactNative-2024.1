@@ -18,7 +18,7 @@
             "id": 3,
             "name": "Daniel Abib Brasil",
             "email": "daniel.abib@codejr.com.br",
-            "aniversario": "",
+            "aniversario": "18/12",
             "cargo": "assessor"
         },
         {
@@ -46,8 +46,8 @@
             "id": 7,
             "name": "Fabio do Vale Affonso",
             "email": "fabio.vale@codejr.com.br",
-            "aniversario": "",
-            "cargo": ""
+            "aniversario": "04/03",
+            "cargo": "assessor"
         },
         {
             "id": 8,
@@ -60,21 +60,21 @@
             "id": 9,
             "name": "Gabriel de Faria Salles ",
             "email": "gabriel.faria@codejr.com.br",
-            "aniversario": "",
+            "aniversario": "28/04",
             "cargo": "assessor"
         },
         {
             "id": 10,
             "name": "Gabriel de Oliveira Vieira",
             "email": "gabriel.vieira@codejr.com.br",
-            "aniversario": "",
+            "aniversario": "27/07",
             "cargo": "assessor"
         },
         {
             "id": 11,
             "name": "Gabriel Domingos de Souza",
             "email": "gabriel.domingos@codejr.com.br",
-            "aniversario": "",
+            "aniversario": "19/11",
             "cargo": "assessor"
         },
         {
@@ -95,21 +95,21 @@
             "id": 14,
             "name": "Leandro Alvares de Carvalho",
             "email": "leandro.alvares@codejr.com.br",
-            "aniversario": "",
+            "aniversario": "24/09",
             "cargo": "assessor"
         },
         {
             "id": 15,
             "name": "Lucas Henrique de Arruda Ferreira",
             "email": "lucas.arruda@codejr.com.br",
-            "aniversario": "",
+            "aniversario": "01/11",
             "cargo": "assessor"
         },
         {
             "id": 16,
             "name": "Luiz Henrique de Oliveira Pereira",
             "email": "luiz.pereira@codejr.com.br",
-            "aniversario": "",
+            "aniversario": "19/07",
             "cargo": "assessor"
         },
         {
@@ -137,7 +137,7 @@
             "id": 20,
             "name": "Pedro Henrique Pascoalino Marques",
             "email": "pedro.marques@codejr.com.br",
-            "aniversario": "",
+            "aniversario": "28/09",
             "cargo": "assessor"
         },
         {
@@ -151,56 +151,56 @@
             "id": 22,
             "name": "Rayane de Oliveira Ribeiro do Vale",
             "email": "rayane.oliveira@codejr.com.br",
-            "aniversario": "",
+            "aniversario": "15/04",
             "cargo": "assessor"
         },
         {
             "id": 23,
             "name": "Rayssa Amaral Gomes",
             "email": "rayssa.amaral@codejr.com.br",
-            "aniversario": "",
+            "aniversario": "30/06",
             "cargo": "assessor"
         },
         {
             "id": 24,
             "name": "Rhara Ianna Barcelos Costa",
             "email": "rhara.ianna@codejr.com.br",
-            "aniversario": "",
+            "aniversario": "29/11",
             "cargo": "assessor"
         },
         {
             "id": 25,
             "name": "Ricardo Ervilha Silva",
             "email": "ricardo.ervilha@codejr.com.br",
-            "aniversario": "",
+            "aniversario": "14/03",
             "cargo": "assessor"
         },
         {
             "id": 26,
             "name": "Sara Ingrid Sousa Oliveira Afonso",
             "email": "sara.sousa@codejr.com.br",
-            "aniversario": "",
+            "aniversario": "25/05",
             "cargo": "assessor"
         },
         {
             "id": 27,
-            "name": "Victoria Tiemi Ferreira Yamashita",
-            "email": "victoria.tiemi@codejr.com.br",
-            "aniversario": "",
+            "name": "Vitoria Cristina Nunes dos Santos ",
+            "email": "vitoria.nunes@codejr.com.br",
+            "aniversario": "19/07",
             "cargo": "assessor"
         },
         {
             "id": 28,
             "name": "Vítor Fernandes Reis",
             "email": "vitor.fernandes@codejr.com.br",
-            "aniversario": "",
+            "aniversario": "22/07",
             "cargo": "assessor"
         },
         {
             "id": 29,
-            "name": "Vitoria Cristina Nunes dos Santos ",
-            "email": "vitoria.nunes@codejr.com.br",
-            "aniversario": "",
+            "name": "Victoria Tiemi Ferreira Yamashita",
+            "email": "victoria.tiemi@codejr.com.br",
+            "aniversario": "01/01",
             "cargo": "assessor"
         }
     ]
