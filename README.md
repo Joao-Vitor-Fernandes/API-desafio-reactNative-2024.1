@@ -1,34 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Objetivos do repositorio
 
-## Getting Started
+O objetivo do repositório é ter um projeto com uma API pré-configurada para os desenvolvedores realizarem o Desafio de Next da gestão 2023.2.
 
-First, run the development server:
+## Propositos do desafio
+
+A proposta do desafio é criar um Site para um e-commerce/sistema de vendas, com tema de sua escolha. O site deve conter todos os requisitos funcionais que estão listados no Documento de Requesitos.
+
+## Como executar o projeto inicial
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+Abra o Terminal na Pasta do Projeto
+Instalar o NextJS no projeto: 'npx create-next-app@latest .' (O ponto . no final do comando serve para criar o projeto na pasta que está selecionado, em vez de criar uma adicional'
+Instalar o json-server no projeto: 'npm install -g json-server'
+Crie um arquivo db.json na raiz do projeto e adicione o conteúdo do arquivo db.json desse repositório
+Inicie o json-server: 'json-server --watch db.json --port 3001' (Atenção, o comando --port deve ser inserido pois o json-server utiliza por padrão a porta 3000, assim como o NextJS, então para evitar bugs utilize --port 3001
+Inicie o servidor: 'npm run dev'
+Agora, se você ir para 'http://localhost:3001/membros', você verá toda a API sendo buscada.
+
+Lembre-se de consultar a documentação sempre.
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Links Úteis
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [Documentação do JSON Server (Fake-API)]([https://nextjs.org/docs](https://github.com/typicode/json-server))
+- [Documentação do Next.js](https://nextjs.org/learn)
