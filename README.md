@@ -8,7 +8,6 @@ A proposta do desafio é criar um Site para um e-commerce/sistema de vendas, com
 
 ## Como executar o projeto inicial
 
-```bash
 Abra o Terminal na Pasta do Projeto
 Instalar o NextJS no projeto: 'npx create-next-app@latest .' (O ponto . no final do comando serve para criar o projeto na pasta que está selecionado, em vez de criar uma adicional'
 Instalar o json-server no projeto: 'npm install -g json-server'
@@ -18,7 +17,6 @@ Inicie o servidor: 'npm run dev'
 Agora, se você ir para 'http://localhost:3001/membros', você verá toda a API sendo buscada.
 
 Lembre-se de consultar a documentação sempre.
-```
 
 ## Links Úteis
 
