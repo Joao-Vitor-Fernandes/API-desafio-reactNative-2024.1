@@ -30,3 +30,7 @@ Lembre-se de consultar a documentação sempre.
 
 - [Documentação do JSON Server (Fake-API)](https://github.com/typicode/json-server)
 - [Documentação do Next.js](https://nextjs.org/learn)
+
+## EXEMPLO DE INSTALAÇÃO
+
+https://prnt.sc/EOR1Oqt7aw4d
