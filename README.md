@@ -29,8 +29,4 @@ Lembre-se de consultar a documentação sempre.
 ## Links Úteis
 
 - [Documentação do JSON Server (Fake-API)](https://github.com/typicode/json-server)
-- [Documentação do Next.js](https://nextjs.org/learn)
-
-## EXEMPLO DE INSTALAÇÃO
-
-https://prnt.sc/EOR1Oqt7aw4d
+- [Documentação do React Native](https://reactnative.dev/docs/getting-started)
