@@ -1,6 +1,6 @@
 ## Objetivos do repositorio
 
-O objetivo do repositório é ter um projeto com uma API pré-configurada para os desenvolvedores realizarem o Desafio de React Native da gestão 2023.2.
+O objetivo do repositório é ter um projeto com uma API pré-configurada para os desenvolvedores realizarem o Desafio de React Native da gestão 2024.1.
 
 ## Propositos do desafio
 
